@@ -1,0 +1,50 @@
+{
+  "title": "Bewteen Cuzco and Zacatecas",
+  "identity": {
+    "roots": [
+      {
+        "country": "Mexico",
+        "inherited": ["lotería cards", "telenovela afternoons", "rosaries hanging in the car"]
+      },
+      {
+        "country": "Peru",
+        "inherited": ["Incan legends", "chicha morada stains", "stories of mountains peaks"]
+      }
+    ],
+    "language": {
+      "spanish": "spoken with lots of pauses",
+      "english": "fluent",
+      "quechua": "ghost",
+      "nahuatl": "ghost"
+    },
+    "belonging": {
+      "Mexico": "cousins ask if I'm from here",
+      "Peru": "taxi drivers call me gringa",
+      "USA": "forms say Hispanic/Latino, but never both"
+    }
+  },
+  "body": {
+    "eats": ["tamales", "lomo saltado"],
+    "moves": ["in between two cultures"],
+    "wears": {
+      "shirt": "a soccer jersey with no team allegiance",
+      "expression": "familiar in mirrors"
+    }
+  },
+  "memory": {
+    "Mexico": "Jumping into cenotes filled with water",
+    "Peru": "Looking at mountains you can't see the peaks of"
+  },
+  "truth": {
+    "not halves": "but small holes",
+    "not confusion": "but curiosity",
+    "not lost": "but wanting to be found"
+  },
+  "future": {
+    "hopes": [
+      "to not need to choose",
+      "to cook recipes without Googling them",
+      "to speak without apology"
+    ]
+  }
+}
